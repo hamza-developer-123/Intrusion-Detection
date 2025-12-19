@@ -1,1 +1,1 @@
-Intrusion Detection Project.
+Intrusion Detection Project. Dataset from kaggle.

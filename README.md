@@ -1,1 +1,1 @@
-Intrusion Detection and classification Project. Dataset from the kaggle.
+Intrusion Detection and classification Project. Dataset collected from the kaggle.
